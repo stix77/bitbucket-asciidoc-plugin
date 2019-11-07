@@ -8,6 +8,16 @@ The plugin is available in the https://marketplace.atlassian.com/plugins/org.chr
 
 == Releases
 
+=== 4.x.x
+
+The 4.x.x versions are for Bitbucket Server &gt;= 6.0.0
+
+==== 4.0.0 (2019-11-xx)
+
+This version includes the following changes:
+
+* Fix: https://github.com/christiangalsterer/bitbucket-asciidoc-plugin/issues/27[Bitbucket version 6]
+
 === 3.x.x
 
 The 3.x.x versions are for Bitbucket Server &gt;= 5.0.0

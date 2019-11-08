@@ -102,6 +102,8 @@
                             <version>${bitbucket-maven-plugin.version}</version>
                         </pluginArtifact>
                     </pluginArtifacts>
+                    <enableQuickReload>true</enableQuickReload>
+                    <enableFastdev>false</enableFastdev>
                 </configuration>
             </plugin>
         </plugins>

@@ -39,7 +39,7 @@
     </client-resource>
 
     <client-resource key="highlight" name="Highlight JS Library">
-        <resource type="download" name="highlight.js" location="/static/lib/highlight/highlight.js" />
+        <resource type="download" name="highlight.js" location="/static/lib/highlight/highlight.pack.js" />
         <directory location="/static/lib/highlight" />
     </client-resource>
     
